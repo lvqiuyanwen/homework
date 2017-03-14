@@ -25,7 +25,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-         以前陪我看月亮的时候，叫人家小甜甜，现在新文胜旧文了，就要删除人家了T^T？
+         真的要删除人家么，人家陪伴了你多少个春夏秋冬啊T^T？
        <!-- 加一个确认删除的ifTag 确认删除？-->  
   </body>
 </html>

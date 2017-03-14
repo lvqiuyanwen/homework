@@ -22,6 +22,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	-->
   </head>
   <body>
-    写书成功！ 
+    恭喜你！写书成功！ 
   </body>
 </html>
